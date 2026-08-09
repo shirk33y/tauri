@@ -1,3 +1,5 @@
+<!-- project-index-summary: Build smaller, faster, and more secure desktop applications with a web frontend. -->
+
 <img src="docs/splash.png" alt="Tauri" />
 
 [![status](https://img.shields.io/badge/Status-Beta-green.svg)](https://github.com/tauri-apps/tauri/tree/dev)
